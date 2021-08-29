@@ -1,0 +1,33 @@
+.login {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.login__logo > img {
+    width: 100px;
+}
+
+.login__text > img {
+    width: 150px;
+}
+
+.login__button > button {
+    font-family: 'Rubik', sans-serif;
+    outline: none;
+    border: none;
+    background-color: #1572EA;
+    padding: 10px 5px;
+    width: 300px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin-top: 200px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.login__button > button:hover {
+    background-color: #0f58b8;
+}

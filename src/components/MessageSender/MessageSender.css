@@ -1,0 +1,38 @@
+.messageSender {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 17px -7px rgba(0,0,0,.3);
+}
+
+.messageSender__top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.messageSender__top > form > input {
+    border: none;
+    outline: none;
+    margin: 0 5px;
+    background-color: #ECEEF1;
+    padding: 13px;
+    border-radius: 25px;
+}
+
+.messageSender__message {
+    width: 400px;
+}
+
+.messageSender__hr {
+    width: 100%;
+    margin: 10px 0;
+    border: 1px solid #f0efef;
+}
+
+.messageSender__bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* MuiSvgIcon-root */
