@@ -12,7 +12,4 @@ Assalamualaikum Wr. Wb.
 ### Back End
 - FIREBASE
 
-Aplikasi dapat digunakan dan dapat dikembangkan...
-Semoga Bermanfaat :D
-
-...
+Karena aplikasi yang belum membuat semua fitur ( Hanya Iseng ). Aplikasi dapat digunakan dan dapat dikembangkan sesuai kebutuhan, Bahkan bisa digunakan untuk bahan pelajaran. Sekian dari saya. Makasih sebelumnya
